@@ -3,7 +3,7 @@
 🌱 I’m currently learning how to use python to manage database and bass guitar.
 
 📫 How to reach me: 
-- You can contact me using my email ==> yaniss.besson1@gmail.com </br>
+- You can contact me by email at ==> yaniss.besson1@gmail.com </br>
 - or by visiting my Linkedin's profil ==> https://www.linkedin.com/in/yaniss-besson-617b8a224/
 
 <!--
