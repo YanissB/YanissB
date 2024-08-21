@@ -1,6 +1,6 @@
 ### Hello there! My name is Yaniss and I'm student at Ada Tech School 👋
 
-🌱 I’m currently learning how to use python to manage database and bass guitar.
+🌱 I’m currently learning bass guitar.
 
 📫 How to reach me: 
 - You can contact me by email at ==> yaniss.besson1@gmail.com </br>
