@@ -1,4 +1,4 @@
-### Hello there! My name is Yaniss and I'm student at Ada Tech School 👋
+### Hello there! My name is Yaniss and I'm freelance developer👋
 
 🌱 I’m currently learning bass guitar.
 
